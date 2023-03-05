@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CentSaver",
+    "slug": "CentSaver",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CentSaver"
+}
